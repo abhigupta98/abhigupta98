@@ -1,6 +1,5 @@
 # 💫 Hi 👋, I'm Abhishek Kumar
-**I have completed my B.Tech from Galgotias University and am a passionate MERN Stack Web Developer with a strong foundation in building responsive and user-friendly web applications. I have hands-on experience with MongoDB, Express.js, React.js, and Node.js, and I enjoy developing scalable full-stack solutions using clean coding practices and modern UI/UX principles. I am highly motivated to learn new technologies and contribute effectively to real-world projects in a collaborative environment.**
-
+**A passionate MernStack Developer**
 Email Me 👉 ✉️ **ag5667422@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Enter your project info here
