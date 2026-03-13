@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Abhishek Kumar
-**A passionate MernStack Developer**
+**A passionate Frontend Developer**
 
 Email Me 👉 ✉️ **ag5667422@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
